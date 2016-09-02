@@ -1,0 +1,52 @@
+module inSayne
+{
+    imports
+    {
+        Base
+
+    }
+
+	item InFridge
+	{
+		WeightReduction    	=    40,
+		Weight    			=    100,
+		Type    			=    Container,
+		Capacity    		=    50,
+		DisplayName    		=    Fricking Heavy Fridge,
+		Icon    			=    InRefrigirator,
+		RequiresEquippedBothHands = true
+	}
+	
+	item InMicrowave
+	{
+		WeightReduction    	=    30,
+		Weight    			=    30,
+		Type    			=    Container,
+		Capacity    		=    50,
+		DisplayName    		=    Pretty Heavy Microwave,
+		Icon    			=    InMicrowave,
+		RequiresEquippedBothHands = true
+	}
+	
+	item InStove
+	{
+		WeightReduction    	=    30,
+		Weight    			=    65,
+		Type    			=    Container,
+		Capacity    		=    50,
+		DisplayName    		=    Darn Heavy Stove,
+		Icon    			=    InStove,
+		RequiresEquippedBothHands = true
+	}
+	
+	item InBBQ
+	{
+		WeightReduction    	=    30,
+		Weight    			=    65,
+		Type    			=    Container,
+		Capacity    		=    50,
+		DisplayName    		=    Stupidly Heavy Grill,
+		Icon    			=    InBBQ,
+		RequiresEquippedBothHands = true
+	}
+}
