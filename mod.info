@@ -2,3 +2,7 @@ name=inSayne Electrics
 poster=poster.png
 id=inSayneElectrics
 description=Making your own build houses usefull!
+
+modversion=0.7.0-alpha
+#pzversion=34.28
+versionurl=https://raw.githubusercontent.com/tst2005/pz-insayneelectrics-mod/master/mod.info
